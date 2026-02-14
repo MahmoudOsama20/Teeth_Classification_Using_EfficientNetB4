@@ -1,0 +1,5 @@
+docker build -t cnn-streamlit-docker .
+
+docker run -p 8501:8501 cnn-streamlit-docker
+
+Open: http://localhost:8501
