@@ -1,2 +1,0 @@
-The paper discussed three models EfficientNetB4, ResNet-50 and MobileNet-V2.
-The EfficientNetB4 model achieved the best accuracy and in the evaluation metrics.
