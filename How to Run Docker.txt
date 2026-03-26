@@ -1,0 +1,18 @@
+To pull the image from Dockerhub
+--------------------------------
+
+#1 -> docker pull mahmoudosama20/teeth-classifier:latest
+#2 -> docker run -p 8501:8501 mahmoudosama20/teeth-classifier:latest
+#3 -> Open: http://localhost:8501
+#4 -> Enjoy 🥰
+
+
+To Build the image locally
+--------------------------
+
+#1 -> Start the Docker Engine Desktop
+#2 -> Go to the folder that containes the Dockerfile & .dockerignore, and Run the cmd and execute the below instructions.
+#3 -> docker build -t cnn-streamlit-docker .
+#4 -> docker run -p 8501:8501 cnn-streamlit-docker
+#5 -> Open: http://localhost:8501
+#6 -> Enjoy 🥰
