@@ -167,4 +167,4 @@ The dataset consists of dental images organized into 7 class folders, split into
 
 ## 🏢 About
 
-Developed as part of **Week 1 Project** for [Cellula Technologies](https://www.cellula.tech) — an AI-driven dental solutions company focused on enhancing diagnostic precision and improving patient outcomes.
+Developed as part of **Week 1 Project** for [Cellula Technologies]([https://www.cellula.tech](https://www.linkedin.com/company/cellula-technologies)) — an AI-driven dental solutions company focused on enhancing diagnostic precision and improving patient outcomes.
